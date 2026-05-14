@@ -381,13 +381,4 @@ This project is for educational and demonstration purposes.
 
 ---
 
-## 🎉 Acknowledgments
-
-- **Elecon Engineering** — Industrial gear specifications
-- **AGMA 2003-B97** — Bevel gear design standard
-- **Groq** — LLaMA 3.3 70B API access
-- **SHAP/LIME** — Explainable AI libraries
-
----
-
 **Ready to monitor your gears? Start the application and explore! 🚀**
