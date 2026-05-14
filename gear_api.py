@@ -28,7 +28,7 @@ from datetime import datetime
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 os.environ["GROQ_API_KEY"] = os.environ.get(
-    "GROQ_API_KEY", "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"
+    "GROQ_API_KEY", "API_KEY"
 )
 
 app = FastAPI(title="GearMind AI API", version="5.0")
