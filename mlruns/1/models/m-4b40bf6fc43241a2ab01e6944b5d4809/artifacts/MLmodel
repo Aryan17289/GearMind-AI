@@ -1,0 +1,23 @@
+artifact_path: file:D:/gearmind_final/gearmind_final/mlruns/1/models/m-4b40bf6fc43241a2ab01e6944b5d4809/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+    skops_trusted_types: null
+mlflow_version: 3.10.0
+model_id: m-4b40bf6fc43241a2ab01e6944b5d4809
+model_size_bytes: 720362
+model_uuid: m-4b40bf6fc43241a2ab01e6944b5d4809
+prompts: null
+run_id: a93cf81f5ed44af59768fae4125f38be
+utc_time_created: '2026-02-23 08:19:21.500202'
