@@ -79,7 +79,8 @@ GearMind is a comprehensive predictive maintenance dashboard that monitors the h
 
 ## Interface of the Dashboard
 
-![Dashboard Screenshot](https://private-user-images.githubusercontent.com/188213136/602701632-b4efc9a4-486e-4297-bd29-ddf63ba45442.png)
+<img width="1902" height="912" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/0a4fad3e-4f8d-40d1-bb73-757c6b598307" />
+
 
 ---
 
