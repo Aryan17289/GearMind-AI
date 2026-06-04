@@ -66,7 +66,7 @@ GearMind is a comprehensive predictive maintenance dashboard that monitors the h
 - Downtime and production impact
 - Visual cost comparison charts
 
-<img width="1902" height="913" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/6005de31-268f-4af5-943a-a862c2377375" />
+<img width="1902" height="912" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/b4efc9a4-486e-4297-bd29-ddf63ba45442" />
 
 Interface of the Dashboard
 ---
